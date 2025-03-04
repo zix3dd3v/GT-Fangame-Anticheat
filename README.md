@@ -31,6 +31,9 @@ If you like this project and want to show your support, please **star** this rep
 
 ---
 
+## 🤝 **Please give Credits!**
+I worked pretty hard on this anticheat script, and I would like to be credited for my work, it would be the right thing to do and it further boosts this project to help other developers have a good anticheat system.
+
 ## 🤖 **Features**
 - 🚫 **Blocks cheaters automatically**
 - ⚙️ **Has constant checks** to see if you have assemblies that can mod the game
