@@ -5,8 +5,13 @@ Please **donate** to keep this project going and get more updates: [Donate via P
 
 ---
 
+## 🤔 **Why This Was Made**
+This project was created by a developer, for developers, with the simple goal of helping to **prevent modding** in games. I understand that a game developer obviously wouldn't want their game modded without permission, and to make the game unfair. But with this anticheat system, our goal is to help developers not get their game modded, it can get fairly annoying.
+
+---
+
 ## ⚠️ **FAIR WARNING**
-This script doesn't make your game completely unmoddable, but it does help **prevent** it only a little bit. **Other anticheat systems** will be added to this repository when completely done being made.
+Please understand that this script doesn't make your game completely unmoddable, but it does help **prevent** it only a little bit. **Other anticheat systems** will be added to this repository when completely done being made.
 
 ---
 
