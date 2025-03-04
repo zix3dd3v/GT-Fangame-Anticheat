@@ -19,7 +19,7 @@ Please understand that this script doesn't make your game completely unmoddable,
 1. **Download the C# script** 📝
 2. **Import it to your project** 🖨️
 3. **Create an Empty GameObject** 🎮
-4. **Drag the script** into the Empty GameObject you just created 🖥️
+4. **Drag the script into the Empty GameObject you just created** 🖥️
 5. **Set the parameters** ✔️
 
 **Boom**, the anticheat should be working after those simple steps!
