@@ -5,6 +5,11 @@ Please **donate** to keep this project going and get more updates: [Donate via P
 
 ---
 
+## ⚠️ **FAIR WARNING**
+This script doesn't make your game completely unmoddable, but it does help **prevent** it only a little bit. **Other anticheat systems** will be added to this repository when completely done being made.
+
+---
+
 ## 📌 **How to Get Started**
 1. **Download the C# script** 📝
 2. **Import it to your project** 🖨️
