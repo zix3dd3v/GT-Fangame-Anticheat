@@ -1,20 +1,27 @@
-GT Fangame Anticheat 🚫🎮
-Welcome to the GT Fangame Anticheat! 🚀 Please donate to keep this project going and get more updates http://paypal.me/zixeddev
+# **GT Fangame Anticheat** 🚫🎮
 
-📌 How to Get Started
-Download the C# script 📝
-Import it to your project 🖨️
-Create an Empty GameObject 🎮
-Drag the script in the Empty GameObject you just made 🖥️
-Set the parameters ✔️
+Welcome to the **GT Fangame Anticheat**! 🚀  
+Please **donate** to keep this project going and get more updates: [Donate via PayPal](http://paypal.me/zixeddev)
 
-Boom, the anticheat should be working after those simple steps!
+---
 
+## 📌 **How to Get Started**
+1. **Download the C# script** 📝
+2. **Import it to your project** 🖨️
+3. **Create an Empty GameObject** 🎮
+4. **Drag the script** into the Empty GameObject you just created 🖥️
+5. **Set the parameters** ✔️
 
-🌟 Please Star the Project!
-If you like this project and want to show your support, please star this repo! 🌟
+**Boom**, the anticheat should be working after those simple steps!
 
-🤖 Features
-🚫 Blocks cheaters automatically
-⚙️ Has constant checks to if you have assemblies that can mod the game
-🥾 Kicks players if caught cheating (for right now, a banning system will be coming soon)
+---
+
+## 🌟 **Please Star the Project!**
+If you like this project and want to show your support, please **star** this repo! 🌟
+
+---
+
+## 🤖 **Features**
+- 🚫 **Blocks cheaters automatically**
+- ⚙️ **Has constant checks** to see if you have assemblies that can mod the game
+- 🥾 **Kicks players** if caught cheating (a banning system will be coming soon)
